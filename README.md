@@ -3,10 +3,15 @@ INGLESE
 Create a .env file inside the BACKEND folder with the following details:
 
 DB_HOST=127.0.0.1 (localhost)
+
 DB_USER=(user) exaple: root
+
 DB_PASSWORD=(db password) exaple: Simone.3345
+
 DB_NAME=(name db) example: prova
+
 JWT_SECRET=pierpaolo11
+
 
 Fill in the fields within parentheses. Create the database (inside the dump20240714 folder with MySQL or your preferred database).
 
@@ -25,11 +30,14 @@ When the database is also functional, you will have your app. Inside my app, you
 ITALIANO
 Crea un file .env all'interno della cartella BACKEND con le seguenti configurazioni:
 
-Copia codice
 DB_HOST=127.0.0.1 (localhost)
+
 DB_USER=(utente) exaple: root
+
 DB_PASSWORD=(password db) exaple: Simone.3345
+
 DB_NAME=(nome db) example: prova
+
 JWT_SECRET=pierpaolo11
 
 Compila i campi tra parentesi. Crea il database (all'interno della cartella dump20240714 con MySQL o il database che preferisci).
