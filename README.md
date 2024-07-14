@@ -32,6 +32,7 @@ npm install (waiting)
 npm run dev
 
 When the database is also functional, you will have your app. Inside my app, you will find another README with additional information.
+In the database, we already have test users, user: simone p: simone1234, user: michele p: michele1234, each of whom has uploaded 2 photos. The photos are automatically saved in the public folder in the backend, so if we want to have an app without uploads, we simply need to delete them from the folder and from the database.
 
 ITA
 
@@ -66,6 +67,8 @@ npm install
 npm run dev
 
 Quando anche il database sarà funzionante, avrai la tua app pronta. Dentro alla mia app trovi un altro readme con informazioni aggiuntive 
+
+Nel database abbiamo già degli utenti prova: user: simone p: simone1234 ,user: michele p: michele1234 i quali hanno rispettettivamente caricato  2 foto per uno. Le foto si salvano automaticamente nella cartella public nel backend quindi in caso si voglia avere un app priva di caricamenti basta cancellarle dalla cartella  e dal database. 
 
 grazie per aver scaricato la mia app 
 
