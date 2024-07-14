@@ -1,4 +1,4 @@
-INGLESE
+ENG
 
 Create a .env file inside the BACKEND folder with the following details:
 
@@ -33,7 +33,7 @@ npm run dev
 
 When the database is also functional, you will have your app. Inside my app, you will find another README with additional information.
 
-ITALIANO
+ITA
 
 Crea un file .env all'interno della cartella BACKEND con le seguenti configurazioni:
 
