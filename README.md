@@ -1,6 +1,6 @@
 ENG
 
-Create a .env file inside the BACKEND folder with the following details:
+Create a .env file inside the BACKEND folder with the following details: ( only .env )
 
 DB_HOST=127.0.0.1 (localhost)
 
@@ -35,7 +35,7 @@ When the database is also functional, you will have your app. Inside my app, you
 
 ITA
 
-Crea un file .env all'interno della cartella BACKEND con le seguenti configurazioni:
+Crea un file .env all'interno della cartella BACKEND con le seguenti configurazioni: ( solo .env)
 
 DB_HOST=127.0.0.1 (localhost)
 
